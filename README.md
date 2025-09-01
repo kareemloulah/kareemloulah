@@ -4,16 +4,11 @@
 [![GitHub Followers](https://img.shields.io/github/followers/kareemloulah?style=social)](https://github.com/kareemloulah)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/kareemloulah/kareemloulah?style=flat)]()
 
-Hey there! Welcome to my GitHub profile. I'm Kareem Loulah, a passionate software developer based in Egypt. I've been actively contributing to the GitHub community since July 2018, exploring a wide range of programming languages and working on diverse projects. Here's a brief overview of my profile:
-
-## Summary:
-- **Total Contributions:** 16
-- **Pull Requests:** 6
-- **Issues:** 10
+Hey there! Welcome to my GitHub profile. I'm Kareem Loulah, a passionate DevOps Engineer based in Egypt.
 
 ## Skills & Interests:
-- **Main Languages:** Python, JavaScript, HTML, Shell
-- **Other Languages:** Dockerfile
+- **Main Languages:** Python, JavaScript, HTML, Shell,
+- **Main Skills:** Ansilbe, Docker, Kubernetes, Jenkins/Github Actions, Prometheus, Grafana
 - **Software:** depi3, Fawry_Task
 - **Total Commits:** 125
 
@@ -21,10 +16,6 @@ Hey there! Welcome to my GitHub profile. I'm Kareem Loulah, a passionate softwar
 - **Repositories:** Depi_Project, depi3
 - **Latest Contributions:** See profile for details
 
-## GitHub Presence:
-- **Followers:** 1
-- **Following:** 2
-- **Starred Repositories:** 0
 
 ## Activity Snapshot:
 - ![Github Stats](https://github-readme-stats.vercel.app/api?username=kareemloulah)
@@ -35,7 +26,8 @@ Hey there! Welcome to my GitHub profile. I'm Kareem Loulah, a passionate softwar
 ## Contact Me:
 Feel free to explore my repositories and get in touch!
 - [GitHub Profile](https://github.com/kareemloulah)
-- [Email](mailto:kareem.loulah@example.com)
+- [Email](mailto:loulahkareem@gmail.com@gmail.com)
+- [LinkedIn Profile](https://www.linkedin.com/in/kareemloulah/)
 
 ---
 
