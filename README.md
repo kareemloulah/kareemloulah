@@ -9,8 +9,6 @@ Hey there! Welcome to my GitHub profile. I'm Kareem Loulah, a passionate DevOps 
 ## Skills & Interests:
 - **Main Languages:** Python, JavaScript, HTML, Shell,
 - **Main Skills:** Ansilbe, Docker, Kubernetes, Jenkins/Github Actions, Prometheus, Grafana
-- **Software:** depi3, Fawry_Task
-- **Total Commits:** 125
 
 ## Projects:
 - **Repositories:** Depi_Project, depi3
