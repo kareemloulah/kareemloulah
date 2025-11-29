@@ -16,10 +16,7 @@ Hey there! Welcome to my GitHub profile. I'm Kareem Loulah, a passionate DevOps 
 
 
 ## Activity Snapshot:
-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=kareemloulah)
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kareemloulah)
 - [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kareemloulah)](https://github.com/kareemloulah)
-- [![GitHub Streak](https://streak-stats.demolab.com/?user=kareemloulah)](https://git.io/streak-stats)
 
 ## Contact Me:
 Feel free to explore my repositories and get in touch!
